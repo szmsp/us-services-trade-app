@@ -9,7 +9,8 @@ To access the BEA API, first request an API key online: https://apps.bea.gov/API
 
 To run the app, copy the programs into a directory. Insert your directory file path and your BEA API key into "[path]" and "[key]" in the programs. Set the working directory to your directory file path, then run: 
 
-  library(shiny) \n
+  library(shiny)
+  
   runApp()
 
 For help or to learn more about international services trade data available from the BEA API, please see the API guide: https://apps.bea.gov/api/_pdf/bea_web_service_api_user_guide.pdf
