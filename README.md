@@ -1,8 +1,6 @@
 # us-services-trade-app
 Shiny app for pulling and visualizing U.S. services trade data from the BEA
 
-Pull US trade in services data from the Bureau of Economic Analysis (BEA) API.
-
 This app pulls and visualizes bilateral U.S. services trade data from the BEA API. It allows users flexibility to specify the partner country, industry, and period of interest. 
 
 To access the BEA API, first request an API key online: https://apps.bea.gov/API/signup/index.cfm
