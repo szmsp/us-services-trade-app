@@ -20,6 +20,8 @@
 # Root paths
 folder <- "[path]"
 setwd(folder)
+# BEA API key obtained from website above
+bea_key <- "[key]"
 
 ###############################################################################################################################
 
