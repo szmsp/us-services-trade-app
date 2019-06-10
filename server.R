@@ -20,6 +20,8 @@
 # Root paths
 folder <- "[path]"
 setwd(folder)
+# BEA API key obtained from website above
+bea_key <- "[key]"
 
 # BEA services data API call function
 source(paste0(folder, "bea_services_api_call.R"))
