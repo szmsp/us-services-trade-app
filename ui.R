@@ -13,7 +13,7 @@
 # For BEA services trade category definitions:
 # https://www.bea.gov/sites/default/files/methodologies/ONE%20PDF%20-%20IEA%20Concepts%20Methods.pdf#page=63
 
-# To run app, replace "[path]" below
+# To run app, replace "[path]" and "[key]" below
 
 ###############################################################################################################################
 
